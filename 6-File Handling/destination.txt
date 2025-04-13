@@ -4,3 +4,6 @@ Append operation taking place!
 First line 
 Seocnd line 
 Third line
+hello world
+my name is anurag patkar
+welcome to the course
